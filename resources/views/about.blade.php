@@ -40,7 +40,7 @@
 
     </header>
     <main>
-        <h1 class="text-center mt-5">Hello {{$utente}}</h1>
+        <h1 class="text-center mt-5">About Us</h1>
     </main>
     <footer>
     </footer>
