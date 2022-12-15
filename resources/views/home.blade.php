@@ -17,7 +17,7 @@
         <!-- place navbar here -->
     </header>
     <main>
-        <h1>Hello world</h1>
+        <h1>Hello world {{$utente}}</h1>
     </main>
     <footer>
         <!-- place footer here -->
